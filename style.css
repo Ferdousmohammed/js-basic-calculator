@@ -1,0 +1,49 @@
+#back {
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.one {
+    background-color:  rgb(52, 32, 11);
+    border-radius: 15px;
+    box-shadow: 5px 8px 12px rgb(143, 107, 107);
+    margin-top: 30px;
+    margin: 50px auto;
+    padding: 30px;
+    width: 350px;
+    
+    
+    
+    
+}
+.buddy {
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+    width: auto;
+}
+.display {
+    display: grid;
+    grid-gap: 16px;
+    grid-template-columns: repeat(4, 1fr);
+}
+button {
+   
+    color: black;
+    background-color: rgb(208, 237, 209);
+    box-shadow: 2px 3px 7px;
+}
+.display button {
+    border-radius: 20px;
+    padding: 12px;
+    font-size: 15px;
+    margin: 5px;
+}
+#onne {
+    padding: 6px;
+    font-size: 18px;
+    box-shadow: 4px 7px 12px grey;
+    width: 100%;
+    border: 2px solid darkblue;
+    border-radius: 5px;
+    background-color: rgb(207, 207, 220);
+}
